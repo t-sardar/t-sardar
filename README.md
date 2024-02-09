@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Linux and RHEL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zero2procoder@gmail.com
-- <!---⚡ Fun fact: --->
+<!--- - ⚡ Fun fact: --->
 
 <!---
 t-sardar/t-sardar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
